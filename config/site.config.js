@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Spencer's OneDrive",
+  title: "崔衍庚的共享云盘",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Public',
@@ -49,12 +49,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: 'Blog',
+      link: 'https://www.4h0.cn',
     },
     {
       name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      link: 'https://t.me/cuiyangeng',
     },
   ],
 
