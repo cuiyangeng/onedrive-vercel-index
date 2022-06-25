@@ -39,7 +39,7 @@ module.exports = {
   footer:   
      
   
-    'Powered by <a href="/" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.','崔某人的分享网盘',
+    'Powered by <a href="/" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.'
   
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
