@@ -37,7 +37,10 @@ module.exports = {
 
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:   
+     '崔某人的分享网盘',
+  
     'Powered by <a href="/" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
+  
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
