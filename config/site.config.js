@@ -36,7 +36,7 @@ module.exports = {
    //quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:   
 
-    '这个网站是崔某人的分享网盘，一些找到的资源俺会持续分享在这里,
+    '这个网站是崔某人的分享网盘，一些找到的资源俺会持续分享在这里',
   
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
