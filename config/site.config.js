@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
 
 
-  // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
+   quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:   
      '崔某人的分享网盘',
   
