@@ -33,6 +33,16 @@ module.exports = {
   googleFontLinks: ['https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
+  <html>
+<head>
+<meta charset="utf-8">
+<title>speak first</title>
+</head>
+<body>
+	<h1>💎崔衍庚的分享网盘</h1>
+</body>
+</html>
+
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:   
     'Powered by <a href="/" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
