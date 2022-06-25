@@ -33,13 +33,10 @@ module.exports = {
   googleFontLinks: ['https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
-
-
    //quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:   
-     
- 
-    'Powered by <a href="/" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
+
+    '这个网站是崔某人的分享网盘，一些找到的资源俺会持续分享在这里,
   
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
